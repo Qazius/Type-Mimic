@@ -2,7 +2,7 @@
 
 ## about
 
-mimics human-realistic typing with balanced delays or intervals between unique characters and supports complex text like code
+typing bot that mimics human-realistic typing with balanced delays or intervals between unique characters and supports complex text like code
 
 for example, with the following text from [Hacker Typer](https://hackertyper.com/):
 
